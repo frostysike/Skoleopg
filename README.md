@@ -8,8 +8,8 @@
 </head>
 
 <body>
-  <a href="nike.jpg"><img src="nike.jpg" height="200" width="200" class="img_space" alt="nike"></a>
-  <a href="sikesikesike.jpg"><img src="sikesikesike.jpg" height="200" width="200" class="img_space" alt="sike"></a>
+  <a href="nike.jpg"><img src="nike.jpg" height="200" width="350" class="img_space" alt="nike"></a>
+  <a href="sikesikesike.jpg"><img src="sikesikesike.jpg" height="200" width="350" class="img_space" alt="sike"></a>
 </body>
 </html>
 
